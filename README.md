@@ -7,7 +7,7 @@ This project analyzes subscription churn data from a video streaming service. Th
 The dataset provides valuable information that reflects customer behavior and decision-making, including:
 
 - Subscription details and timelines.
-- Patterns leading to cancellation, such as lack of engagement, busy schedules, or a mismatch with customer needs.
+- Patterns leading to cancellation, such as a lack of engagement, busy schedules, or a mismatch with customer needs.
 - Insights into retention challenges faced by subscription-based services.
 
 ## Project Goal
@@ -24,8 +24,4 @@ Using this data, we will:
 - Pandas
 - NumPy
 - Matplotlib & Seaborn for visualization
-- Scikit-learn (if any predictive modeling is included)
-
-## Getting Started
-
-1. Clone this repos
+- Scikit-learn (predictive modeling will be included)
